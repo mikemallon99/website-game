@@ -1,0 +1,22 @@
+html {
+  cursor: url('cursor.cur'), auto;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-color: #5c4a00;
+  background-image: url("https://www.transparenttextures.com/patterns/paper-1.png");
+}
+
+.list-section {
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+}
+ul {
+  display: inline-block;
+}
+ul li {
+  text-align: left;
+}
